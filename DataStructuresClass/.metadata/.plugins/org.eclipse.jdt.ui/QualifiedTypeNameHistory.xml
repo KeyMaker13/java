@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.zip.DataFormatException"/>
+<fullyQualifiedTypeName name="java.util.Locale"/>
+<fullyQualifiedTypeName name="jss2.ArraySet"/>
+<fullyQualifiedTypeName name="jss2.SetADT"/>
+<fullyQualifiedTypeName name="jss2.ArrayIterator"/>
+<fullyQualifiedTypeName name="jss2.LinearNode"/>
+<fullyQualifiedTypeName name="jss2.DoubleNode"/>
+<fullyQualifiedTypeName name="jss2.DoubleLinkedIterator"/>
+<fullyQualifiedTypeName name="stacks.ArrayStack"/>
+<fullyQualifiedTypeName name="stacks.StackADT"/>
+<fullyQualifiedTypeName name="jss2.DoubleLinkedSet"/>
+<fullyQualifiedTypeName name="queues.LinkedPriorityQueueTester"/>
+<fullyQualifiedTypeName name="linkedlist.Node"/>
+<fullyQualifiedTypeName name="linkedlist.DoubleLinkedList"/>
+<fullyQualifiedTypeName name="linkedlist.LinkedList"/>
+<fullyQualifiedTypeName name="project2.PublicNode"/>
+<fullyQualifiedTypeName name="java.text.DateFormat"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.NoSuchElementException"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+</qualifiedTypeNameHistroy>

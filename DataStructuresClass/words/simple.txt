@@ -1,0 +1,8 @@
+CS 1723 is the first  required course for the Bachelor of Science Degree
+in Computer Science.  This course introduces theIntroducing basic concepts of computer science and
+programming, this course and CS 1723 provide a programming and problem-solving
+foundation for the rest of the degree.  The course is now offered
+using Java.  Java is a new object-oriented language
+that allows execution of programs from web pages independent
+of platform.  Java's clean design and many features make it an ideal vehicle
+for introducing state-of-the-art software techniques at an early stage.

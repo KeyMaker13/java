@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349440810192
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349440827633
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349440901781
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1349441034094
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349441099771
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1349441117571
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349441124300
+error,log,,,"Could not write metadata for '/words'.",1349441125334
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349441131106
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349441318958
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349441318960
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349441333010
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349441334507
+closed,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349441353932
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1349441361723
+error,log,,,"Problems saving workspace",1349441382982
+error,log,,,"Problems occurred while trying to save the state of the workbench.",1349441383041
+stopped,bundle,org.eclipse.mylyn.ide.ant,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.ide.ant",1349441383310
+stopped,bundle,org.eclipse.ant.ui,3.4.0.v20090520,"org.eclipse.ant.ui",1349441383310
+stopped,bundle,org.eclipse.compare.win32,1.0.0.I20090430-0408,"org.eclipse.compare.win32",1349441383311
+stopped,bundle,org.eclipse.mylyn.java.tasks,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.java.tasks",1349441383312
+stopped,bundle,org.eclipse.mylyn.java.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.java.ui",1349441383312
+stopped,bundle,org.eclipse.jdt.junit,3.5.0.v20090526-2000,"org.eclipse.jdt.junit",1349441383314
+stopped,bundle,org.eclipse.jdt.apt.ui,3.3.200.v20090528-1135,"org.eclipse.jdt.apt.ui",1349441383314
+stopped,bundle,org.eclipse.jdt.debug.ui,3.4.0.v20090527,"org.eclipse.jdt.debug.ui",1349441383315

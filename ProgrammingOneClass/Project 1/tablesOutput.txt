@@ -1,0 +1,32 @@
+Project 1 written by Ivan Capistran
+
+Convert kilograms to pounds
+
+Enter two numbers to determind the range of your conversation table.
+First value of the range?
+ [DrJava Input Box]
+Second value of the range?
+ [DrJava Input Box]
+Heres is your table
+
+Kilograms	Pounds
+1		2.205
+2		4.409
+3		6.614
+4		8.818
+5		11.023
+
+Now a table that converts feet and inches to meters
+
+	Inches
+Feet	0		1		2		3		4		5		6		7		8		9		10		11
+0	0.0000 m	0.0254 m	0.0508 m	0.0762 m	0.1016 m	0.1270 m	0.1524 m	0.1778 m	0.2032 m	0.2286 m	0.2540 m	0.2794 m
+1	0.3048 m	0.3302 m	0.3556 m	0.3810 m	0.4064 m	0.4318 m	0.4572 m	0.4826 m	0.5080 m	0.5334 m	0.5588 m	0.5842 m
+2	0.6096 m	0.6350 m	0.6604 m	0.6858 m	0.7112 m	0.7366 m	0.7620 m	0.7874 m	0.8128 m	0.8382 m	0.8636 m	0.8890 m
+3	0.9144 m	0.9398 m	0.9652 m	0.9906 m	1.0160 m	1.0414 m	1.0668 m	1.0922 m	1.1176 m	1.1430 m	1.1684 m	1.1938 m
+4	1.2192 m	1.2446 m	1.2700 m	1.2954 m	1.3208 m	1.3462 m	1.3716 m	1.3970 m	1.4224 m	1.4478 m	1.4732 m	1.4986 m
+5	1.5240 m	1.5494 m	1.5748 m	1.6002 m	1.6256 m	1.6510 m	1.6764 m	1.7018 m	1.7272 m	1.7526 m	1.7780 m	1.8034 m
+6	1.8288 m	1.8542 m	1.8796 m	1.9050 m	1.9304 m	1.9558 m	1.9812 m	2.0066 m	2.0320 m	2.0574 m	2.0828 m	2.1082 m
+7	2.1336 m	2.1590 m	2.1844 m	2.2098 m	2.2352 m	2.2606 m	2.2860 m	2.3114 m	2.3368 m	2.3622 m	2.3876 m	2.4130 m
+8	2.4384 m	2.4638 m	2.4892 m	2.5146 m	2.5400 m	2.5654 m	2.5908 m	2.6162 m	2.6416 m	2.6670 m	2.6924 m	2.7178 m
+9	2.7432 m	2.7686 m	2.7940 m	2.8194 m	2.8448 m	2.8702 m	2.8956 m	2.9210 m	2.9464 m	2.9718 m	2.9972 m	3.0226 m

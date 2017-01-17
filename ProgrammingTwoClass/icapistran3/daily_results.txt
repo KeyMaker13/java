@@ -1,0 +1,68 @@
+Feb 22: High=66 Low=54 Predicted highs: ??  ??  ??  ??  ??  ??  ??  ??  ?? Lows: ??  ??  ??  ??  ??  ??  ??  ??  ?? 
+
+Feb 24: High=86 Low=61 Predicted highs: 81  80  ??  ??  ??  ??  ??  ??  ?? Lows: 45  48  ??  ??  ??  ??  ??  ??  ?? 
+
+Feb 25: High=75 Low=44 Predicted highs: 80  81  81  ??  ??  ??  ??  ??  ?? Lows: 50  50  55  ??  ??  ??  ??  ??  ?? 
+
+Feb 26: High=79 Low=50 Predicted highs: 78  78  80  81  ??  ??  ??  ??  ?? Lows: 63  63  63  61  ??  ??  ??  ??  ?? 
+
+Mar 12: High=82 Low=56 Predicted highs: 81  80  79  75  79  78  74  75  73 Lows: 60  58  58  57  56  54  52  51  53 
+
+Mar 13: High=76 Low=61 Predicted highs: 77  78  78  75  75  74  77  75  75 Lows: 62  60  55  58  58  57  56  52  53 
+
+Mar 14: High=74 Low=59 Predicted highs: 75  77  77  77  80  77  79  79  78 Lows: 51  58  58  48  52  54  53  50  51 
+
+Mar 16: High=82 Low=62 Predicted highs: 80  82  82  80  80  79  77  78  79 Lows: 63  62  61  57  58  55  56  48  52 
+
+Mar 17: High=83 Low=66 Predicted highs: 85  84  85  82  83  82  81  80  77 Lows: 62  63  63  60  59  57  57  55  50 
+
+Feb 27: High=?? Low=?? Predicted highs: 86  83  83  82  78  ??  ??  ??  ?? Lows: 49  51  51  56  58  ??  ??  ??  ?? 
+
+Feb 28: High=74 Low=55 Predicted highs: 77  77  76  73  77  75  ??  ??  ?? Lows: 41  44  45  40  44  43  ??  ??  ?? 
+
+Mar 1: High=72 Low=46 Predicted highs: ??  ??  ??  77  77  76  76  73  72 Lows: ??  ??  ??  57  51  54  62  51  47 
+
+Mar 2: High=77 Low=44 Predicted highs: 77  ??  ??  ??  71  72  71  75  75 Lows: 49  ??  ??  ??  39  43  40  47  49 
+
+Mar 3: High=76 Low=48 Predicted highs: 79  78  ??  ??  ??  69  71  69  73 Lows: 55  54  ??  ??  ??  46  48  42  46 
+
+Mar 4: High=76 Low=59 Predicted highs: 80  80  78  ??  ??  ??  76  75  71 Lows: 57  59  58  ??  ??  ??  52  51  50 
+
+Mar 5: High=68 Low=45 Predicted highs: 67  70  72  73  ??  ??  ??  79  77 Lows: 38  41  41  42  ??  ??  ??  51  52 
+
+Mar 6: High=66 Low=34 Predicted highs: 71  69  71  69  71  ??  ??  ??  77 Lows: 44  46  47  45  46  ??  ??  ??  38 
+
+Mar 7: High=77 Low=45 Predicted highs: 78  77  74  78  77  76  ??  ??  ?? Lows: 60  58  59  55  57  55  ??  ??  ?? 
+
+Mar 8: High=83 Low=64 Predicted highs: 83  81  80  82  78  83  79  ??  ?? Lows: 52  52  55  55  59  55  55  ??  ?? 
+
+Mar 9: High=75 Low=54 Predicted highs: 76  74  71  73  73  73  76  75  ?? Lows: 40  44  43  42  41  43  44  44  ?? 
+
+Mar 10: High=74 Low=42 Predicted highs: 74  76  76  74  73  72  70  72  70 Lows: 40  45  46  42  38  44  43  46  41 
+
+Mar 11: High=77 Low=41 Predicted highs: 77  77  78  77  76  73  73  70  70 Lows: 50  51  54  53  49  50  49  50  46 
+
+Mar 18: High=86 Low=66 Predicted highs: 83  82  84  84  83  82  82  80  78 Lows: 62  62  62  61  60  58  57  48  49 
+
+Mar 19: High=81 Low=65 Predicted highs: 81  80  80  82  83  80  80  80  79 Lows: 64  61  62  62  60  58  57  55  51 
+
+Mar 20: High=80 Low=64 Predicted highs: 81  80  79  81  81  86  81  81  81 Lows: 64  60  61  62  63  59  58  58  58 
+
+Mar 21: High=80 Low=66 Predicted highs: 83  81  80  85  82  86  81  81  79 Lows: 64  62  61  61  63  58  54  56  52 
+
+Feb 23: High=77 Low=64 Predicted highs: 78  ??  ??  ??  ??  ??  ??  ??  ?? Lows: 63  ??  ??  ??  ??  ??  ??  ??  ?? 
+
+Mar 15: High=75 Low=49 Predicted highs: 78  78  78  77  79  79  77  77  77 Lows: 59  59  59  58  54  54  55  53  52 
+
+Mar 22: High=83 Low=65 Predicted highs: 87  85  85  87  86  87  83  79  79 Lows: 64  62  61  60  59  58  59  58  56 
+
+Mar 23: High=85 Low=65 Predicted highs: 88  88  86  88  88  87  84  81  81 Lows: 60  60  60  59  56  58  54  59  59 
+
+Mar 25: High=85 Low=64 Predicted highs: 85  85  87  90  87  80  80  81  78 Lows: 65  64  64  63  63  59  55  55  53 
+
+Mar 26: High=86 Low=68 Predicted highs: 92  91  91  92  90  89  83  80  80 Lows: 62  64  62  62  64  62  61  58  57 
+
+Mar 27: High=?? Low=?? Predicted highs: 81  89  92  85  83  87  87  84  79 Lows: 60  62  64  64  56  55  57  60  58 
+
+Mar 24: High=83 Low=63 Predicted highs: 85  86  87  88  85  81  83  82  79 Lows: 64  64  64  61  60  57  57  50  59 
+

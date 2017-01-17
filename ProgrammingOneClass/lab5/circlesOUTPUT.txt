@@ -1,0 +1,27 @@
+LAB 5 BY IVAN CAPISTRAN
+
+You will enter the values for the location of a circle in terms of x and y
+ then you will enter the size of the radius
+You will give Values for 3 Circles
+The grid is 400 by 300
+Values for first circle.
+Enter x then y then radius
+ 100
+ 100
+ 30
+Values for second circle.
+Enter x then y then radius
+ 200
+ 250
+ 60
+Values for third circle.
+Enter x then y then radius
+ 180
+ 200
+ 100
+
+The Red Circle is smaller than the Blue circle
+The Red Circle is smaller than the Black circle
+The Blue Circle is smaller than the Black circle
+The Red and Black circle intersect
+The Blue and Black circle intersect

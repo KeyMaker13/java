@@ -1,0 +1,10 @@
+import java.util.*;
+public class CountAChar{
+  public static void main(String[] args){
+    Scanner console = new Scanner(System.in);
+    System.out.println("Enter string s1 ");
+    String s1 = console.nextLine();
+    System.out.println("Echo the string s1 " + s1);
+    
+  }
+}

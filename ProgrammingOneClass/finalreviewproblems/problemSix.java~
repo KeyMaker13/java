@@ -1,0 +1,23 @@
+import java.util.*;
+
+public class problemSix
+{
+  public static void main (String[] args)
+  {
+    Scanner console = new Scanner (System.in);
+    System.out.println("Enter 5 Strings and I will compute the average of the letters per string");
+    String[] average = new String[5];
+    
+    int letterSum = 0;
+    
+    for (int i =0; i< average.length; i++)
+    {
+      sum +=average[i];
+    }
+    
+    System.out.println(sum/average.length);
+    
+    
+    
+  }
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="EmfFacetModelBrowserSettings">
+	<section name="http://www.eclipse.org/emf/2002/Ecore">
+		<list key="LastAppliedFacets">
+		</list>
+		<list key="LastAppliedCustomizations">
+			<item value="ui"/>
+			<item value="UMLPapyrusDefaultBrowserCustomization"/>
+			<item value="constraints"/>
+			<item value="PapyrusTableFacetCustomization"/>
+			<item value="SysMLDefaultExplorerCustomization"/>
+			<item value="environment"/>
+			<item value="PapyrusTableInstanceCustomization"/>
+			<item value="UMLFacetDefaultBrowserCustomization"/>
+			<item value="context"/>
+			<item value="NotationCustomization"/>
+			<item value="PapyrusNotation"/>
+			<item value="PapyrusNotationFacet"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="balanceproject/src"/>
+	<classpathentry kind="src" path="banksimulationproject/src"/>
+	<classpathentry kind="src" path="bstproject/src"/>
+	<classpathentry kind="src" path="currencyproject/src"/>
+	<classpathentry kind="src" path="dAryheapproject/src"/>
+	<classpathentry kind="src" path="directoriesproject/src"/>
+	<classpathentry kind="src" path="doublelinksproject/src"/>
+	<classpathentry kind="src" path="huffmanCoding/src"/>
+	<classpathentry kind="src" path="icapistrProject2/src"/>
+	<classpathentry kind="src" path="icapistrProject3/src"/>
+	<classpathentry kind="src" path="Project1/src"/>
+	<classpathentry kind="src" path="sortproject/src"/>
+	<classpathentry kind="src" path="trysets/src"/>
+	<classpathentry kind="src" path="week01/src"/>
+	<classpathentry kind="src" path="week02/src"/>
+	<classpathentry kind="src" path="week03/src"/>
+	<classpathentry kind="src" path="week04/src"/>
+	<classpathentry kind="src" path="week05/src"/>
+	<classpathentry kind="src" path="week06/src"/>
+	<classpathentry kind="src" path="week08/src"/>
+	<classpathentry kind="src" path="week09/src"/>
+	<classpathentry kind="src" path="week10/src"/>
+	<classpathentry kind="src" path="week11Init/src"/>
+	<classpathentry kind="src" path="week13/src"/>
+	<classpathentry kind="src" path="week14/src"/>
+	<classpathentry kind="src" path="week15Init/src"/>
+	<classpathentry kind="src" path="words/src"/>
+	<classpathentry exported="true" kind="lib" path="jss2.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="words/bin"/>
+</classpath>

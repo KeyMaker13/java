@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349451281297
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1349451283813
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349451290257
+closed,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349451338417
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1349451347178
+error,log,,,"Problems saving workspace",1349451361199
+error,log,,,"Problems occurred while trying to save the state of the workbench.",1349451361208
+stopped,bundle,org.eclipse.mylyn.ide.ant,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.ide.ant",1349451362119
+stopped,bundle,org.eclipse.ant.ui,3.4.0.v20090520,"org.eclipse.ant.ui",1349451362127
+stopped,bundle,org.eclipse.compare.win32,1.0.0.I20090430-0408,"org.eclipse.compare.win32",1349451362163
+stopped,bundle,org.eclipse.mylyn.java.tasks,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.java.tasks",1349451362163
+stopped,bundle,org.eclipse.mylyn.java.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.java.ui",1349451362163
+stopped,bundle,org.eclipse.jdt.junit,3.5.0.v20090526-2000,"org.eclipse.jdt.junit",1349451362163
+stopped,bundle,org.eclipse.jdt.apt.ui,3.3.200.v20090528-1135,"org.eclipse.jdt.apt.ui",1349451362178
+stopped,bundle,org.eclipse.jdt.debug.ui,3.4.0.v20090527,"org.eclipse.jdt.debug.ui",1349451362178
+stopped,bundle,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui",1349451364265
+stopped,bundle,org.eclipse.mylyn.bugzilla.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.bugzilla.ui",1349451364266
+stopped,bundle,org.eclipse.mylyn.ide.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.ide.ui",1349451364267
+stopped,bundle,org.eclipse.mylyn.team.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.team.ui",1349451364267
+stopped,bundle,org.eclipse.mylyn.resources.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.resources.ui",1349451364268
+stopped,bundle,org.eclipse.mylyn.wikitext.tasks.ui,1.1.0.v20090617-0100-e3x,"org.eclipse.mylyn.wikitext.tasks.ui",1349451364276
+stopped,bundle,org.eclipse.mylyn.context.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.context.ui",1349451364276
+stopped,bundle,org.eclipse.mylyn.help.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.help.ui",1349451364989
+stopped,bundle,org.eclipse.mylyn.tasks.bugs,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.tasks.bugs",1349451364995
+stopped,bundle,org.eclipse.mylyn.tasks.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.tasks.ui",1349451364995

@@ -1,0 +1,27 @@
+import java.util.*;
+import java.text.*;
+
+public class FutureValues
+{
+  public static void main (String[] args)
+  {
+    Scanner console = new Scanner (System.in);
+    
+    
+    System.out.println("Lab 3 written by Ivan Capistran\n");
+    
+    System.out.println("Calculate compound interest\n give me 3 values");
+    
+    
+    
+    
+  }
+  
+  
+  public static double compoundInterest(double
+  
+  
+  
+  
+  
+}

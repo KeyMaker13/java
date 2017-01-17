@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;LinkedListIterator.java&apos; to &apos;icapistrProject2/src/project2&apos;&#x0D;&#x0A;- Original project: &apos;Project1&apos;&#x0D;&#x0A;- Destination element: &apos;icapistrProject2/src/project2&apos;&#x0D;&#x0A;- Original element: &apos;linkedlist.LinkedListIterator.java&apos;" description="Copy compilation unit" destination="=icapistrProject2/src&lt;project2" element1="/src&lt;linkedlist{LinkedListIterator.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1350473792186" units="1" version="1.0"/>
+</session>

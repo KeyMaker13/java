@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;DoubleLinkedIterator.java&apos; to &apos;Project1/src/linkedlist&apos;&#x0D;&#x0A;- Original project: &apos;doublelinksproject&apos;&#x0D;&#x0A;- Destination element: &apos;Project1/src/linkedlist&apos;&#x0D;&#x0A;- Original element: &apos;jss2.DoubleLinkedIterator.java&apos;" description="Copy compilation unit" destination="=Project1/src&lt;linkedlist" element1="/src&lt;jss2{DoubleLinkedIterator.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1349737278399" units="1" version="1.0"/>
+</session>

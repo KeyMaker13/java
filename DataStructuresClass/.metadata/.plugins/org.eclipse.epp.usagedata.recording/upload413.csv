@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.specification.version,sysinfo,,,"1.0",1348682936984
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1348682936984
+java.vm.version,sysinfo,,,"20.1-b02",1348682936984
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1348682944843
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1348682947500
+started,bundle,org.eclipse.jdt.junit,3.5.0.v20090526-2000,"org.eclipse.jdt.junit",1348682947640
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348682974625
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348683108484
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1348683113781
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1348683114093
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348683132671
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348683132671
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348683132765
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348683160578
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348683208312
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348683214328
+started,bundle,org.eclipse.mylyn.java.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.java.ui",1348683245812
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348683296593
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348683308921
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1348683382093
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1348683391203
+started,bundle,org.eclipse.mylyn.java.tasks,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.java.tasks",1348683391437
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348683409937
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348683416062
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1348683422375

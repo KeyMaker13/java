@@ -1,0 +1,37 @@
+CS 2123 Lab 8 par II and part III
+Written by Ivan Capistran
+-------------showDirectoryTree()---------------
+E:\Documents\Fall 2012\DataStructures\directoriesproject [DRWX] (0)bytes last modified:22-10-2012 01:05:32
+E:\Documents\Fall 2012\DataStructures\directoriesproject\.project [RWX] (394)bytes last modified:22-10-2012 01:05:32
+E:\Documents\Fall 2012\DataStructures\directoriesproject\src [DRWX] (0)bytes last modified:22-10-2012 01:05:32
+E:\Documents\Fall 2012\DataStructures\directoriesproject\src\directories [DRWX] (0)bytes last modified:22-10-2012 01:06:48
+E:\Documents\Fall 2012\DataStructures\directoriesproject\src\directories\FileTester.java [RWX] (1454)bytes last modified:22-10-2012 01:29:14
+E:\Documents\Fall 2012\DataStructures\directoriesproject\src\directories\DirectoryList.java [RWX] (2718)bytes last modified:31-10-2012 01:18:58
+E:\Documents\Fall 2012\DataStructures\directoriesproject\src\directories\DirectoryListTester.java [RWX] (1131)bytes last modified:31-10-2012 01:26:28
+E:\Documents\Fall 2012\DataStructures\directoriesproject\bin [DRWX] (0)bytes last modified:22-10-2012 01:05:32
+E:\Documents\Fall 2012\DataStructures\directoriesproject\bin\directories [DRWX] (0)bytes last modified:31-10-2012 12:01:08
+E:\Documents\Fall 2012\DataStructures\directoriesproject\bin\directories\FileTester.class [RWX] (2518)bytes last modified:31-10-2012 12:01:08
+E:\Documents\Fall 2012\DataStructures\directoriesproject\bin\directories\DirectoryListTester.class [RWX] (1369)bytes last modified:31-10-2012 01:26:28
+E:\Documents\Fall 2012\DataStructures\directoriesproject\bin\directories\DirectoryList.class [RWX] (3095)bytes last modified:31-10-2012 01:18:58
+E:\Documents\Fall 2012\DataStructures\directoriesproject\.settings [DRWX] (0)bytes last modified:22-10-2012 01:05:32
+E:\Documents\Fall 2012\DataStructures\directoriesproject\.settings\org.eclipse.jdt.core.prefs [RWX] (598)bytes last modified:22-10-2012 01:05:34
+E:\Documents\Fall 2012\DataStructures\directoriesproject\.classpath [RWX] (301)bytes last modified:22-10-2012 01:05:32
+E:\Documents\Fall 2012\DataStructures\directoriesproject\test.txt [RWX] (9)bytes last modified:30-10-2012 07:28:12
+------Indented------
+-------------showDirectoryTreeIndented()---------------
+E:\Documents\Fall 2012\DataStructures\directoriesproject [DRWX] (0)bytes last modified:22-10-2012 01:05:32
+	E:\Documents\Fall 2012\DataStructures\directoriesproject\.project [RWX] (394)bytes last modified:22-10-2012 01:05:32
+	E:\Documents\Fall 2012\DataStructures\directoriesproject\src [DRWX] (0)bytes last modified:22-10-2012 01:05:32
+	E:\Documents\Fall 2012\DataStructures\directoriesproject\src\directories [DRWX] (0)bytes last modified:22-10-2012 01:06:48
+		E:\Documents\Fall 2012\DataStructures\directoriesproject\src\directories\FileTester.java [RWX] (1454)bytes last modified:22-10-2012 01:29:14
+		E:\Documents\Fall 2012\DataStructures\directoriesproject\src\directories\DirectoryList.java [RWX] (2718)bytes last modified:31-10-2012 01:18:58
+		E:\Documents\Fall 2012\DataStructures\directoriesproject\src\directories\DirectoryListTester.java [RWX] (1131)bytes last modified:31-10-2012 01:26:28
+	E:\Documents\Fall 2012\DataStructures\directoriesproject\bin [DRWX] (0)bytes last modified:22-10-2012 01:05:32
+	E:\Documents\Fall 2012\DataStructures\directoriesproject\bin\directories [DRWX] (0)bytes last modified:31-10-2012 12:01:08
+		E:\Documents\Fall 2012\DataStructures\directoriesproject\bin\directories\FileTester.class [RWX] (2518)bytes last modified:31-10-2012 12:01:08
+		E:\Documents\Fall 2012\DataStructures\directoriesproject\bin\directories\DirectoryListTester.class [RWX] (1369)bytes last modified:31-10-2012 01:26:28
+		E:\Documents\Fall 2012\DataStructures\directoriesproject\bin\directories\DirectoryList.class [RWX] (3095)bytes last modified:31-10-2012 01:18:58
+	E:\Documents\Fall 2012\DataStructures\directoriesproject\.settings [DRWX] (0)bytes last modified:22-10-2012 01:05:32
+		E:\Documents\Fall 2012\DataStructures\directoriesproject\.settings\org.eclipse.jdt.core.prefs [RWX] (598)bytes last modified:22-10-2012 01:05:34
+	E:\Documents\Fall 2012\DataStructures\directoriesproject\.classpath [RWX] (301)bytes last modified:22-10-2012 01:05:32
+	E:\Documents\Fall 2012\DataStructures\directoriesproject\test.txt [RWX] (9)bytes last modified:30-10-2012 07:28:12

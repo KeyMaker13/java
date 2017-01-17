@@ -1,0 +1,78 @@
+package pr2;
+import java.util.ArrayList;
+
+public class DailyTemperatureList {
+
+	private final static int DATA_SIZE = 10;
+	private ArrayList<DailyTemperature> dailyList;
+	private static String[] MONTHS = {"Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"};
+
+	
+	public DailyTemperatureList(){
+		
+		dailyList = new ArrayList<DailyTemperature>();
+		
+	}
+	
+	public String toString()
+	{
+		String toPrint = "";
+
+		for(int i = 0; i<dailyList.size(); i++)
+			toPrint += dailyList.get(i).toString();
+
+		return toPrint;
+	}
+	public void print()
+	{
+		System.out.println(toString());
+	}
+
+public DailyTemperature createFromData(TemperaturePrediction d){
+	
+	
+	return new DailyTemperature(d.getMonth(),d.getDay());
+}
+
+public void addData(TemperaturePrediction d){
+	
+	DailyTemperature c = createFromData(d);
+	int month = c.getMonth();
+	int hT = d.getActualHigh();
+	int lT = d.getActualLow();
+	c.setPredictedHigh(hT);
+	c.setPredictedLow(lT);
+	dailyList.add(c);
+	
+	
+	
+	int addDay = c.getDay();
+//	DailyTemperature n1 = new DailyTemperature(month,addDay + i);
+	for (int i = 1; i<DATA_SIZE; i++)
+	{
+		DailyTemperature n1 = new DailyTemperature(month,addDay + i);
+			for (int x = 1 ; x<DATA_SIZE; x++){
+			n1.setPredictedHigh(d.getPredictedHigh(x));
+			n1.setPredictedLow(d.getPredictedLow(x));
+			dailyList.add(n1);
+		}
+		//dailyList.add(n1);
+		
+	}
+	//dailyList.add(n1);
+	//DailyTemperature n1 = new DailyTemperature(month,addDay);
+	//n1.setPredictedHigh(c.getPredictedHigh(0));
+	//n1.setPredictedLow(c.getPredictedLow(0));
+	//dailyList.add(n1);
+	
+	
+	
+	
+	
+	
+
+}
+
+
+	
+}

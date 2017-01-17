@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.jdt.debug,3.5.0.v20090526,"org.eclipse.jdt.debug",1349441487137
+started,bundle,org.eclipse.jdt.debug.ui,3.4.0.v20090527,"org.eclipse.jdt.debug.ui",1349441487193
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1349441492547
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349441510877
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349441510977
+started,bundle,org.eclipse.mylyn.java.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.java.ui",1349441521509
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1349441552355
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349441565158
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349441570253
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1349441593018
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349441594036
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349441595411
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349441599210
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349441798463
+error,log,,,"Could not write metadata for '/words'.",1349441799096
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349441821919
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349441949294
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349441991354
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349442537953
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349442539097
+closed,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349442544447
+error,log,,,"Problems saving workspace",1349442570397
+error,log,,,"Problems occurred while trying to save the state of the workbench.",1349442571314
+stopped,bundle,org.eclipse.mylyn.ide.ant,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.ide.ant",1349442571362
+stopped,bundle,org.eclipse.ant.ui,3.4.0.v20090520,"org.eclipse.ant.ui",1349442571362

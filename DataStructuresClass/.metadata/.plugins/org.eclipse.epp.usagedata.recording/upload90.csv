@@ -1,0 +1,25 @@
+what,kind,bundleId,bundleVersion,description,time
+ws,sysinfo,,,"win32",1347381495770
+locale,sysinfo,,,"en_US",1347381495770
+processors,sysinfo,,,"4",1347381495770
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1347381495770
+java.runtime.version,sysinfo,,,"1.6.0_26-b03",1347381495770
+java.specification.name,sysinfo,,,"Java Platform API Specification",1347381495770
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1347381495770
+java.specification.version,sysinfo,,,"1.6",1347381495770
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1347381495770
+java.version,sysinfo,,,"1.6.0_26",1347381495770
+java.vm.info,sysinfo,,,"mixed mode, sharing",1347381495770
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1347381495770
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1347381495770
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1347381495770
+java.vm.specification.version,sysinfo,,,"1.0",1347381495770
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1347381495770
+java.vm.version,sysinfo,,,"20.1-b02",1347381495770
+closed,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1347382727809
+stopped,bundle,org.eclipse.mylyn.ide.ant,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.ide.ant",1347382738512
+stopped,bundle,org.eclipse.ant.ui,3.4.0.v20090520,"org.eclipse.ant.ui",1347382738559
+stopped,bundle,org.eclipse.compare.win32,1.0.0.I20090430-0408,"org.eclipse.compare.win32",1347382739606
+stopped,bundle,org.eclipse.mylyn.java.tasks,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.java.tasks",1347382739653
+stopped,bundle,org.eclipse.mylyn.java.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.java.ui",1347382740809
+stopped,bundle,org.eclipse.jdt.junit,3.5.0.v20090526-2000,"org.eclipse.jdt.junit",1347382741778

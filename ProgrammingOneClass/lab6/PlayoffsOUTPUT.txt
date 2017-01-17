@@ -1,0 +1,13 @@
+Lab 6 written by IVAN CAPISTRAN
+
+Play off Simulation
+Two teams will play each other 7 times.
+so the winning team will win 4 of these games.
+You are a fan of team 1 so what percent is team 1 more likely to win?
+Enter a percentage from 0 to 100
+ 51
+Team 1 wins just one game
+
+Team 1 wins the first play off
+
+Team 2 wins 10 more play offs

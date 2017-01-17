@@ -1,0 +1,66 @@
+Change 1:java.lang.NoSuchMethodError: main
+		 The compiler makes sure the main method is actually written as "main".
+
+Change 2:Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+		 Syntax error, insert ";" to complete BlockStatements
+
+		 at simpleproject.HelloWorld.main(HelloWorld.java:5)
+		 Each statement must have a semicolon at the end in order for the compiler to move on to the next statement.
+		 
+Change 3:java.lang.NoClassDefFoundError: simpleproject/HelloWorld
+	 	 Caused by: java.lang.ClassNotFoundException: simpleproject.HelloWorld
+		 at java.net.URLClassLoader$1.run(Unknown Source)
+		 at java.security.AccessController.doPrivileged(Native Method)
+		 at java.net.URLClassLoader.findClass(Unknown Source)
+		 at java.lang.ClassLoader.loadClass(Unknown Source)
+		 at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+		 at java.lang.ClassLoader.loadClass(Unknown Source)
+	     Exception in thread "main" 
+	     The name of file for the class is named "HelloWorld" and the compiler must read "HelloWorld" exactly in order for it to compile.
+	     
+Change 4:Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+
+		 at simpleproject.HelloWorld.main(HelloWorld.java:4)
+		 Java is sensitive on the exact wording of file names or classes.
+		 
+Change 5:Hello world, My name is Ivan Capistran
+		 There is no error because anything text inside the quotations wont effect the compliation of the program.
+		 
+Change 6:Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+		 Syntax error, insert "}" to complete ClassBody
+
+		 at simpleproject.HelloWorld.main(HelloWorld.java:7)
+		 There is an error because brackets are used to separate areas of code that belong to certain areas or methods.
+
+Change 7:Exception in thread "main" java.lang.Error: Unresolved compilation problems: 
+		 Hello cannot be resolved
+		 Syntax error on token "world", delete this token
+		 Syntax error, insert ")" to complete MethodInvocation
+		 Syntax error, insert ";" to complete BlockStatements
+		 My cannot be resolved
+		 name cannot be resolved to a type
+		 Syntax error, insert ";" to complete LocalVariableDeclarationStatement
+		 Ivan cannot be resolved to a type
+		 Syntax error, insert ";" to complete LocalVariableDeclarationStatement
+		 String literal is not properly closed by a double-quote
+		 String literal is not properly closed by a double-quote
+
+		 at simpleproject.HelloWorld.main(HelloWorld.java:5)
+		 When ever the user uses the command println he or she must open and close the statements with quotation marks.
+		 
+Change 8:Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+		 String literal is not properly closed by a double-quote
+
+		 at simpleproject.HelloWorld.main(HelloWorld.java:5)
+		 The println command must be closed with a quotation mark.
+		 
+Change 9:Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+		 The method printline(String) is undefined for the type PrintStream
+
+		 at simpleproject.HelloWorld.main(HelloWorld.java:5)
+		 Java has certain method names for commands of coding and printline is not the correct wording to use for the method of println.
+		 
+Change 10:java.lang.NoSuchMethodError: main
+		  Exception in thread "main" 
+		  It gives an error because you must have the reserved word static to declare the main method as a method that can not be changed.
+

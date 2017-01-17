@@ -1,0 +1,25 @@
+// imports
+import java.awt.*;
+import java.util.*;
+
+
+
+public class randomWalk
+{
+  public static void main (String[] args)
+  {
+    Scanner console = new Scanner(System.in);
+    DrawingPanel panel = new DrawingPanel(1000,1000);
+    
+    
+    
+    System.out.println("Lab 7 written by IVAN CAPISTRAN");
+    System.out.print("Enter the radius of the circle must be between 50 and 400 ");
+    int inputRadius = console.nextInt();
+    while (inputRadius < 50 || inputRadius > 400)
+    {
+      inputRadius = console.nextInt();
+    }
+    
+    
+    

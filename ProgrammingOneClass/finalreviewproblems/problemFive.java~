@@ -1,0 +1,30 @@
+public class problemFive
+{
+  public static void main (String[] args)
+  {
+    Scanner console = new Scanner (System.in);
+    
+    System.out.println("How large do you want the array to be")
+      int size = console.nextInt();
+    System.out.println("Now enter double values into the array");
+    
+    for (int i = 0; i<=size; i++)
+    {
+      size[i] = console.nextDouble();
+    }
+    
+  }
+  
+  public static double sumArray (int[] list)
+  {
+    int sum = 0;
+    for (int i = 0; i < list.length; i++)
+    {
+      sum += list[i];
+    }
+    return sum;
+  }
+  
+  
+}
+      

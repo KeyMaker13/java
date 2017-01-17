@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447154369
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349447156000
+closed,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349447156000
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1349447176238
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1349447229743
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1349447233751
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447240445
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447244779
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1349447248910
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349447251180
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1349447256198
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349447256416
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349447256501
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1349447268061
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349447271045
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1349447281620
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1349447284204
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447291533
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447292568
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447292582
+error,log,,,"Could not write metadata for '/words'.",1349447293368
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447296289
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1349447302588
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447302602
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447312421

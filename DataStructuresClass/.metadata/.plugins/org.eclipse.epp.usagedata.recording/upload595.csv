@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Could not write metadata for '/words'.",1349450276955
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349450303221
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349450407249
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349450407487
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1349450505161
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349450509998
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349450550673
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349450551638
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1349450560718
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349450563035
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1349450589133
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349450591817
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349450615862
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349450617859
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349450647548
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349450689459
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1349450708936
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349450715677
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349450715769
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349450724569
+closed,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349450724569
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1349450766243
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349450809812
+error,log,,,"Could not write metadata for '/words'.",1349450810829
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349451279845

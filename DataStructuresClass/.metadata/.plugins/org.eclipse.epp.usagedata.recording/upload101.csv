@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"org.eclipse.ui.workbench",1347625704313
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1347625704313
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1347625704316
+os,sysinfo,,,"win32",1347625704319
+arch,sysinfo,,,"x86",1347625704319
+ws,sysinfo,,,"win32",1347625704319
+locale,sysinfo,,,"en_US",1347625704319
+processors,sysinfo,,,"2",1347625704319
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1347625704319
+java.runtime.version,sysinfo,,,"1.7.0_05-b06",1347625704319
+java.specification.name,sysinfo,,,"Java Platform API Specification",1347625704319
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1347625704319
+java.specification.version,sysinfo,,,"1.7",1347625704319
+java.vendor,sysinfo,,,"Oracle Corporation",1347625704319
+java.version,sysinfo,,,"1.7.0_05",1347625704319
+java.vm.info,sysinfo,,,"mixed mode, sharing",1347625704319
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1347625704319
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1347625704319
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1347625704319
+java.vm.specification.version,sysinfo,,,"1.7",1347625704319
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1347625704319
+java.vm.version,sysinfo,,,"23.1-b03",1347625704319
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.0.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk.scheduler",1347625704345
+started,bundle,org.eclipse.mylyn.team.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.team.ui",1347625704388
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1347625704400

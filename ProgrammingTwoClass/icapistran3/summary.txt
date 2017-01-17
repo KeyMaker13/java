@@ -1,0 +1,16 @@
+I use temperatureMain to run the program.
+
+In temperatureMain I commented out a section for part 2.
+For part 2 I made three new graphs.
+
+A graph of the average temperature predicted of highs for each day.
+Its all the temperature predictions added and devided by how many predictions were made.
+
+A graph of the average temperature predicted lows for each day.
+Its all the temperature predictions added and devided by how many predictions were made.
+
+And a graph of the differences between the actual highs and lows for each day.
+
+
+
+

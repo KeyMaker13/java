@@ -1,0 +1,19 @@
+import java.util.*;
+public class percentCorrect{
+  public static void main(String[] args){
+  Scanner console = new Scanner(System.in);
+  System.out.print("Enter no of questions");
+  int nQ=console.nextInt();
+  System.out.print("Enter no of correct answers");
+  int nC=console.nextInt();
+  if(nQ <=0) {
+    throw new illegalArgumentException(nQ + " is not positive");
+   }   
+    if(nC > nQ){
+      throw new illegalArgumentException(nC + " is not less than " nQ);    
+      }
+    System.out.println("The percentage of correct answers is: " + (Double)nC/nQ );
+  } //end main
+  
+  
+}//end class

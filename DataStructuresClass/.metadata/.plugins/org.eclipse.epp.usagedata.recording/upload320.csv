@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1348530583312
+java.vm.specification.version,sysinfo,,,"1.0",1348530583312
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1348530583312
+java.vm.version,sysinfo,,,"20.6-b01",1348530583312
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1348530586756
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1348530595225
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348530605854
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348530629416
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1348530630890
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1348530631023
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348530636355
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348530669466
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1348530669482
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1348530702019
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1348530707995
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348530718262
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348530723008
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1348530723031
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1348530728034
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1348530732095
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1348530744381
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1348530753316
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348530756170
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348530759578
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1348530762852

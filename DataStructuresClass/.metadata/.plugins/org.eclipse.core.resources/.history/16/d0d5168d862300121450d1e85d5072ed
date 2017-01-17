@@ -1,0 +1,29 @@
+package directories;
+
+import java.io.File;
+
+public class DirectoryListTester {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+	System.out.println("CS 2123 Lab 8 par II and part III");
+	System.out.println("Written by Ivan Capistran");
+	
+	DirectoryList d = new DirectoryList();
+	File aFile = new File("D:\\Documents\\Fall 2012\\DataStructures\\directoriesproject\\");
+	//File bFile =  new File("D:\\Documents\\Fall 2012\\DataStructures");
+	File bFile = new File("bin");
+	File cFile = new File("D:\\Documents\\Fall 2012\\DataStructures\\directoriesproject\\test.txt");
+	//File cFile = new File("D:\\Documents\\Fall 2012\\DataStructures\\directoriesproject");
+	//File dFile = new File("D:\\Documents");
+	//d.showDirectoryTree(aFile);
+	System.out.println("------Indented------");
+	d.showDirectoryTreeIndented(bFile, "", "\t");
+	System.out.println("Are we here?");
+	//System.out.println(d.getFileInfo(cFile));
+
+	}
+
+}

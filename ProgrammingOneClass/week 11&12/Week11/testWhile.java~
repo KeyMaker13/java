@@ -1,0 +1,13 @@
+public class testWhile{
+  public static void main(String[] args){
+    double r = Math.random();
+    int c=1;
+    System.out.println("r= " + r );
+    while(r<0.5){
+      r=Math.random();
+       c++;
+    System.out.println("r= " + r );
+    }
+    System.out.println("c= " + c);
+  }// end main
+}

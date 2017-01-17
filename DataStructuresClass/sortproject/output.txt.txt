@@ -1,0 +1,86 @@
+Study the main method of CompareSorts and run it. 
+Compare the runtimes of quickSort and the mergeSort. 
+Copy the output into a text document called output.txt.
+
+Testing fast sorts:
+
+size		Quicksort	 Mergesort	 
+10		0		 0		 
+100		0		 0		 
+1000		0		 0		 
+10000		2		 3		 
+20000		4		 6		 
+50000		12		 19		 
+100000		27		 49		 
+200000		67		 129		 
+500000		239		 405		
+
+
+Now, modify the code so that the testOriginal array is filled with integers in the range 0..999. 
+Run CompareSorts again, and copy the output into output.txt.
+Is there a singificant difference runtime difference? 
+Explain?
+Yes it took a lot longer for the program to produce the last result. And for quicksort the time has increased a lot.
+
+Testing fast sorts:
+
+size		Quicksort	 Mergesort	 
+10		0		 0		 
+100		0		 0		 
+1000		0		 0		 
+10000		2		 3		 
+20000		4		 6		 
+50000		17		 19		 
+100000		50		 48		 
+200000		173		 125		 
+500000		1064		 401
+
+
+Run the main method for integers in an unbounded range
+Testing 3 way fast sort:
+
+size		3WayQuicksort	 3WayMergesort	 
+10		0		 0		 
+100		0		 0		 
+1000		0		 2		 
+10000		3		 54		 
+20000		7		 142		 
+50000		22		 532		 
+100000		50		 1438		 
+200000		126		 3819		 
+500000		404		 14114		
+
+Then run the main method for integers in the range 0..999
+Testing 3 way fast sort:
+
+size		3WayQuicksort	 3WayMergesort	 
+10		0		 0		 
+100		0		 0		 
+1000		0		 2		 
+10000		1		 55		 
+20000		4		 143		 
+50000		11		 550		 
+100000		23		 1420		 
+200000		62		 3804		 
+500000		226		 14157	
+
+Add test code to CompareSorts to find the average run time for the selectionSort and the bubbleSort
+on 10 randomly generated integer arrays of size 10,000.
+Testing Selection sort and Bubble sort:
+
+size		Selectionsort	 Bubblesort	 
+10000		323		 583		 
+10000		321		 580		 
+10000		328		 580		 
+10000		331		 587		 
+10000		326		 584		 
+10000		324		 585		 
+10000		325		 586		 
+10000		323		 585		 
+10000		321		 587		 
+10000		325		 591		 
+Average run time for Selection Sort: 324
+Average run time for Bubble Sort: 584
+
+The selectionsort performs better than the bubble sort because in bubble sort more elements have to be
+swapped and takes up more time for the sorting to finish.

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.specification.version,sysinfo,,,"1.7",1348432704789
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1348432704789
+java.vm.version,sysinfo,,,"23.1-b03",1348432704789
+started,bundle,org.eclipse.epp.usagedata.ui,1.1.0.R200906100410,"org.eclipse.epp.usagedata.ui",1348432706568
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348432722344
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348432812664
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348432828085
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348432900422
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348432988948
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348433019596
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348433059372
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348433061550
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1348433061567
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1348433062107
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348433064030
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348433078194
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.properties",1348433078202
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348433081653
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348437297827
+closed,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348437308666
+stopped,bundle,org.eclipse.mylyn.ide.ant,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.ide.ant",1348437345276
+stopped,bundle,org.eclipse.ant.ui,3.4.0.v20090520,"org.eclipse.ant.ui",1348437345276
+stopped,bundle,org.eclipse.compare.win32,1.0.0.I20090430-0408,"org.eclipse.compare.win32",1348437345276
+stopped,bundle,org.eclipse.mylyn.java.tasks,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.java.tasks",1348437345276
+stopped,bundle,org.eclipse.mylyn.java.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.java.ui",1348437345276

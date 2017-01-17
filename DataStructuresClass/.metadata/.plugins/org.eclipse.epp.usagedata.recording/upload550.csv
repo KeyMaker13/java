@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349398131652
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349398133970
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349398157401
+error,log,,,"An internal error occurred during: ""Updating workspace"".",1349398158146
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349398160202
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1349398161681
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349398167060
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1349398181431
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349398314125
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349398803438
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349398812212
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349398817957
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349398836204
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1349398900224
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1349398901635
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1349398966747
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349398980443
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349399234753
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349399245770
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349399358388
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349399360916
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349399373828
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349399386490
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349399388223
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349399389233

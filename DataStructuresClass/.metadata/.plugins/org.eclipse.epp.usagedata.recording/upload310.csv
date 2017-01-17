@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+processors,sysinfo,,,"4",1348509758220
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1348509758220
+java.runtime.version,sysinfo,,,"1.6.0_26-b03",1348509758220
+java.specification.name,sysinfo,,,"Java Platform API Specification",1348509758220
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1348509758220
+java.specification.version,sysinfo,,,"1.6",1348509758220
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1348509758220
+java.version,sysinfo,,,"1.6.0_26",1348509758220
+java.vm.info,sysinfo,,,"mixed mode, sharing",1348509758220
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1348509758220
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1348509758220
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1348509758220
+java.vm.specification.version,sysinfo,,,"1.0",1348509758220
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1348509758220
+java.vm.version,sysinfo,,,"20.1-b02",1348509758220
+started,bundle,org.eclipse.team.cvs.ui,3.3.200.I20090521-1750,"org.eclipse.team.cvs.ui",1348509758329
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.0.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk.scheduler",1348509758407
+started,bundle,org.eclipse.mylyn.team.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.team.ui",1348509758454
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1348509758470
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1348509759345
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1348509797558
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1348509801136
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348509803792
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1348509832303
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.properties",1348509832335

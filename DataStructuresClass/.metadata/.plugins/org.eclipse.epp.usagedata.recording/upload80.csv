@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1347300048780
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1347300048780
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1347300049561
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1347300050139
+os,sysinfo,,,"win32",1347300050171
+arch,sysinfo,,,"x86",1347300050171
+ws,sysinfo,,,"win32",1347300050171
+locale,sysinfo,,,"en_US",1347300050171
+processors,sysinfo,,,"4",1347300050171
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1347300050171
+java.runtime.version,sysinfo,,,"1.6.0_26-b03",1347300050171
+java.specification.name,sysinfo,,,"Java Platform API Specification",1347300050171
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1347300050171
+java.specification.version,sysinfo,,,"1.6",1347300050171
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1347300050171
+java.version,sysinfo,,,"1.6.0_26",1347300050171
+java.vm.info,sysinfo,,,"mixed mode, sharing",1347300050171
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1347300050171
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1347300050171
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1347300050171
+java.vm.specification.version,sysinfo,,,"1.0",1347300050171
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1347300050171
+java.vm.version,sysinfo,,,"20.1-b02",1347300050171
+started,bundle,org.eclipse.jdt.junit,3.5.0.v20090526-2000,"org.eclipse.jdt.junit",1347300050561
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1347300068789

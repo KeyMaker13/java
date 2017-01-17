@@ -1,0 +1,18 @@
+<p>
+<b>Exercise 3:</b> Read in the lines of a file and output them in reverse order using the 
+<a href="http://java.sun.com/javase/6/docs/api/java/util/Scanner.html><tt>Scanner</tt></a> class 
+and a <tt>Stack</tt>.
+</p>
+
+
+
+<pre style="margin-left: 40px;">
+public interface StackADT&lt;T&gt; {
+   public void push(T element); // add one element to top of stack
+   public T pop(); //&nbsp; remove and return top element from stack
+   public T peek(); //&nbsp; return without removing top element of stack
+   public boolean isEmpty(); // return true if stack contains no elements
+   public int size(); // return number of elements in stack
+   public String toString(); // returns string representation of stack
+}
+</pre>

@@ -1,0 +1,38 @@
+x
+Mary Jones
+123 Main Line
+555-0469
+123-45-6789
+1923.07
+E
+Joe Smith
+3423 UTSA Blvd
+593-3243
+323-23-5666
+846.15
+h
+Alven Chipmonk
+32 Hollywood Lane
+233-3343
+212-33-6978
+7.40
+x
+John Dirk
+2334 Hello Way
+980-3323
+623-34-2399
+1732.32
+x
+Holly Henley
+233 IH 10 West
+877-7632
+345-67-8934
+1500.00
+h
+Doris Day
+432 Blanco Road
+766-3324
+658-45-9234
+8.85
+
+

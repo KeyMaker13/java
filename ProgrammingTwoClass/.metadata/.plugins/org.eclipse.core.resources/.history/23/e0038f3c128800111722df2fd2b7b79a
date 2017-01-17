@@ -1,0 +1,93 @@
+// 3/26/2012 on part 3
+// 3/27/2012 on part 3
+// 3/28/2012 finished part 3 working on part 4
+// 3/30/2012 did part 5 and finishing up part 4
+// 3/30/2012 did part 6 and still working on part 4
+
+package pr2;
+
+import java.io.*;
+
+import java.util.Scanner;
+
+public class TemperatureMain {
+
+	/**
+	 * @param args
+	 * @throws FileNotFoundException
+	 */
+	private static TemperaturePredictionList list;
+	private static DailyTemperatureList dList;
+
+	public static void main(String[] args) throws FileNotFoundException {
+		// TODO Auto-generated method stub
+		list = new TemperaturePredictionList();
+		dList = new DailyTemperatureList();
+
+		System.out.println("Project 2 by Ivan Capistran\n");
+
+		Scanner scan = new Scanner(new FileInputStream("daily_predictions.txt"));
+		Scanner scanA = new Scanner(
+				new FileInputStream("daily_temperature.txt"));
+
+		String fileName = "";
+		String source = "";
+
+		String fileNameA = "";
+		String sourceA = "";
+
+		try {
+			fileName = scan.nextLine();
+			source = scan.nextLine();
+
+			fileNameA = scanA.nextLine();
+			sourceA = scanA.nextLine();
+
+			while (scan.hasNextLine()) {
+				list.addFromDescriptor(scan.nextLine());
+			}
+			while (scanA.hasNextLine()) {
+				list.setActualTemperature(scanA.nextLine());
+			}
+
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		System.out.println("daily_temperature.txt");
+		System.out.println(fileName);
+		System.out.println(source);
+		System.out.println();
+		System.out.println("daily_temperature.txt");
+		System.out.println(fileNameA);
+		System.out.println(sourceA);
+		System.out.println();
+		list.print();
+
+		for (int i = 0; i < list.size(); i++) {
+			dList.addData(list.getTemperaturePredictionObject(i), list);
+		}
+		
+		dList.print();
+
+		PrintWriter out;
+		String filename = "daily_results.txt";
+
+		try {
+			out = new PrintWriter(new PrintWriter(filename), true);
+
+			for (int i = 0; i < dList.size(); i++) {
+				out.println(dList.get(i).toString());
+			}
+
+			out.close();
+
+		} catch (FileNotFoundException e) {
+			System.out
+					.println("Oh my the file could not be read....it is the end of the world now!!!!");
+		}
+
+	}
+
+}

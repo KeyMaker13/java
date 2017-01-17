@@ -1,0 +1,4 @@
+Evaluate [3 4 +] = 7.0 [expected 7.0]
+Evaluate [3 4 * 2 /] = 6.0 [expected 6.0]
+Evaluate [2 3 + 4 5 - *] = -5.0 [expected -5.0]
+Evaluate [] = 0.0 [expected 0.0]

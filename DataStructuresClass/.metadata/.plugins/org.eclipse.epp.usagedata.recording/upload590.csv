@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1349447402077
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349447402342
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349447402432
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349447404524
+closed,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349447404524
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349447405838
+closed,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349447405838
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447471810
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447475530
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447477814
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447569982
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1349447569991
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349447573989
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447585829
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447587132
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447592251
+error,log,,,"Could not write metadata for '/words'.",1349447608787
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447616166
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1349447617169
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447622305
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447726605
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1349447726618
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447810095
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447866588
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1349447872362

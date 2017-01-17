@@ -1,0 +1,8 @@
+AbstractTextEditor.Color.Background.SystemDefault=false
+AbstractTextEditor.Color.Foreground.SystemDefault=false
+bookmarkIndicationColorBold=false
+eclipse.preferences.version=1
+errorIndicationColorBold=false
+keyword1ColorBold=false
+operatorColorBold=false
+taskIndicationColorBold=true

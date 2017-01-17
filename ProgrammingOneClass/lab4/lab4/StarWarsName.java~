@@ -1,0 +1,39 @@
+import java.util.*;
+
+public class StarWarsName
+  {
+  public static void main (String[] args)
+  {
+    Scanner console = new Scanner(System.in);
+    
+   System.out.println("Star wars name generator\n");
+   System.out.println("
+   
+   String firstName = promptString("Enter your first name: " );
+   
+   
+ /*  Enter your first name: Thom
+Enter your last name: Yorke
+Enter your mother's maiden name: Selway
+Enter the city where you were born: Wellingborough
+Enter the first car your drove: Audi
+    
+    */
+  }
+ 
+
+    
+   
+   public static String promptString(String line)
+   {
+     Scanner console = new Scanner(System.in);
+     
+     System.out.print(line);
+     
+     return console.nextLine();
+   }
+   
+  
+  
+}
+

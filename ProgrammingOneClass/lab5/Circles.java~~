@@ -1,0 +1,134 @@
+import java.awt.*;
+import java.util.*;
+
+public class Circles{
+  public static final Scanner userinput = new Scanner(System.in); 
+  
+  public static void main(String[] args){
+    System.out.println("/n Lab 5 by Robert Wafful");
+    DrawingPanel panel =new DrawingPanel(400,300);
+    double redr=0; double grnr=0; double blur=0; double redx=0; double redy=0; double grnx=0; double grny=0; double blux=0; double bluy=0;
+    double i; // intiate variable for x,y and r of a 3 circles - circle 1-red, circle 2-green and circle 3-blue
+    
+    for (i=1; i<=3; i++){//loop to get input from user and draw three circles
+      Graphics g = panel.getGraphics();
+      //Get user input for each circle
+      System.out.println("Please enter the center of your circle number " +(int)i +".(Please select x<=400 and y<=300.)");
+      double xi = userinput.nextInt();
+      double yi = userinput.nextInt();
+      System.out.println("Please enter the radius of your circle.");
+      double ri = userinput.nextInt();
+      if (i==1){
+        g.setColor(Color.RED);
+        redr = ri;
+        redx = xi;
+        redy = yi;
+      }
+      if (i==2){
+        g.setColor(Color.GREEN);
+        grnr = ri;
+        grnx = xi;
+        grny = yi;
+      }
+      if (i==3){
+        g.setColor(Color.BLUE);
+        blur = ri;
+        blux = xi;
+        bluy = yi;
+      }
+      
+      g.fillOval((int) xi-(int) ri,(int)yi-(int)ri,2*(int)ri,2*(int)ri); //apparently you have to use int for fillOval   
+      
+    }//end of loop to draw three cicles
+    
+    
+    double sizeresult1 = ImBiggerThanYou(redr, grnr);
+    if (sizeresult1==1){
+      System.out.println("The red circle is bigger than the green circle.");
+    }
+    if (sizeresult1==0){
+      System.out.println("The red circle is the same size as the green circle.");
+    }
+    if (sizeresult1==-1){
+      System.out.println("The green circle is bigger than the red circle.");
+    }// end of first/second circle comparison
+    
+    double sizeresult2 = ImBiggerThanYou(redr, blur);
+    if (sizeresult2==1){
+      System.out.println("The red circle is bigger than the blue circle.");
+    }
+    if (sizeresult2==0){
+      System.out.println("The red circle is the same size as the blue circle.");
+    }
+    if (sizeresult2==-1){
+      System.out.println("The blue circle is bigger than the red circle.");
+    }// end of first/third circle comparison
+    
+    double sizeresult3 = ImBiggerThanYou(grnr, blur);
+    if (sizeresult3==1){
+      System.out.println("The green circle is bigger than the blue circle.");
+    }
+    if (sizeresult3==0){
+      System.out.println("The green circle is the same size as the blue circle.");
+    }
+    if (sizeresult3==-1){
+      System.out.println("The blue circle is bigger than the green circle.");
+    }// end of second/third comparison
+    
+    //Begin intersection test.  This tests to see if the circles intersect.
+    
+    double intersectResult1=0.0; double intersectResult2=0.0;double intersectResult3=0.0;
+    intersectResult1 = intersection(redx,redy,redr,grnx,grny,grnr); //test first/second
+    if (intersectResult1 <= 0.0){
+      System.out.println("The red and green circles intersect.");
+    } else {
+      System.out.println("The red and green circles do not touch.");
+    }
+    intersectResult2 = intersection(redx,redy,redr,blux,bluy,blur); //test first/third
+    if (intersectResult2 <= 0.0){
+      System.out.println("The red and blue circles intersect.");
+    } else {
+      System.out.println("The red and blue circles do not touch.");
+    }
+    intersectResult3 = intersection(grnx,grny,grnr,blux,bluy,blur); //test second/third
+    if (intersectResult3 <= 0.0){
+      System.out.println("The green and blue circles intersect.");
+    } else {
+      System.out.println("The green and blue circles do not touch.");
+    }
+    
+  }//end of main
+ 
+  
+
+
+//++++++++++Beginning of method to see which circle is bigger.+++++++++++
+  public static double ImBiggerThanYou(double c1, double c2){
+    double c3=0;
+    if (c1<c2){
+      c3=-1;      
+    }
+    
+    if (c1==c2){
+      c3 = 0;      
+    }
+    
+    if (c1>c2){
+      c3 = 1;  
+    }
+    return c3;
+    
+  }//end of ImBiggerThanYou
+  
+  
+  // ++++Beginning of test if cicles intersect method.++++++++
+  
+  public static double intersection(double x1, double y1, double r1, double x2, double y2, double r2){
+    
+    //Formula to see if cicles intersect.
+    double intersectionResult =Math.sqrt(Math.pow((x1 - x2),2) + Math.pow((y1 - y2),2))-(r1 + r2);
+    return intersectionResult;
+    
+  }//end of intersection
+     
+}//++++++++++++++++++++++ END OF PROGRAM +++++++++++++++++++++++++++++

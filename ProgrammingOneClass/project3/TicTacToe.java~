@@ -1,0 +1,66 @@
+import java.util.*;
+import java.awt.*;
+
+public class TicTacToe {
+  public static final Scanner CONSOLE = new Scanner(System.in);
+  public static final Random RAND = new Random();
+  public static final int EMPTY = 0;
+  public static final int CROSS = 1;
+  public static final int NAUGHT = 2;
+  
+  // This main method allows the user to play Tic-Tac-Toe vs.
+  // the computer.  Method calls to static methods in
+  // ReplaceThis.class should be replaced with your own methods
+  // in this program.
+  public static void main(String[] args) {
+    DrawingPanel panel = new DrawingPanel(600,600);
+    Graphics g = panel.getGraphics();
+    
+    // This draws the lines and the small numbers on the panel
+    ReplaceThis.drawBoard(g);
+    
+    // createBoard returns an int array of length 9
+    int[] board = ReplaceThis.createBoard();
+    
+    // font for drawing big Xs and Os
+    g.setFont(new Font("SansSerif", Font.BOLD, 150));
+    
+    // The computer is X and moves first.
+    int turn = CROSS;
+    
+    // gameOver is true if X or O wins or the board is filled
+    while ( ! ReplaceThis.gameOver(board) ) {
+      if (turn == CROSS) {
+        
+        // computerMove selects a random move to an empty square.
+        int move = ReplaceThis.computerMove(board);
+        
+        // Record the computer's move.
+        board[move] = CROSS;
+        
+        // drawX draws an X in the appropriate square.
+        ReplaceThis.drawX(g, move);
+        
+        // Now it will be the user's turn.
+        turn = NAUGHT;
+      } else {
+        
+        // userMove inputs a move from the user.
+        int move = ReplaceThis.userMove(board);
+        
+        // Record the user's move.
+        board[move] = NAUGHT;
+        
+        // drawO draws an O in the appropriate square.
+        ReplaceThis.drawO(g, move);
+        
+        // Now it will be the computer's turn.
+        turn = CROSS;
+      }
+    }
+    
+    // The game is over, so print the winner.
+    ReplaceThis.printWinner(board);
+  }
+  
+}

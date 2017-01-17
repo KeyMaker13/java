@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 1 element(s) from project &apos;icapistran3&apos;&#x0D;&#x0A;- Original project: &apos;icapistran3&apos;&#x0D;&#x0A;- Original element: &apos;pr3.GraphPanelMain.java&apos;" description="Delete element" element1="/src&lt;pr3{GraphPanelMain.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1334732590072" subPackages="false" version="1.0"/>
+</session>

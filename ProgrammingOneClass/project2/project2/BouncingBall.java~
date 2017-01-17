@@ -1,0 +1,10 @@
+import java.awt.*;
+
+public class BouncingBall {
+  // simulate a ball bouncing off the walls
+  public static void main(String[] args) {
+    DrawingPanel panel = new DrawingPanel(500,500);
+    Graphics g = panel.getGraphics();
+    Project2.bounceLoop(panel, g, Color.BLUE, 50, 250, 250, -5,-3);
+  }
+}

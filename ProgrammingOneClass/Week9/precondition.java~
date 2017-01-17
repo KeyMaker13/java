@@ -1,0 +1,10 @@
+import java.util.*;
+public class precondition{
+  public static void main(String[] args){
+   Scanner console = new Scanner(System.in);
+   System.out.print("Enter number ");
+   double a = console.nextDouble();
+   System.out.println("Echo number " + a);
+    
+  }// end main
+}//end class
